@@ -1,7 +1,6 @@
 # Art
 dalvik.vm.dex2oat-flags=--no-watch-dog
 dalvik.vm.dex2oat-swap=false
-sys.use_fifo_ui=1
 
 # Audio
 af.fast_track_multiplier=1
